@@ -1,6 +1,6 @@
 # Hi, I'm Tarık Tek 👋
 
-I'm an Electrical Engineering student at Yıldız Technical University, interested in **Artificial Intelligence, Embedded Systems, Robotics, and Automation**.
+I'm an Electrical Engineer, interested in **Artificial Intelligence, Embedded Systems, Robotics, and Automation**.
 
 I focus on building AI-powered engineering systems that combine software, hardware, sensor data, and real-world automation. My projects mainly involve **AI workflows, SCADA simulations, embedded systems, IoT, robotics, computer vision, and intelligent dashboards**.
 
